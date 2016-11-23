@@ -1,3 +1,8 @@
+/**
+* @author Spiros Mavroidakos
+* @version V4
+* Peg solitaire variant solver algorithm
+**/
 public class tester {
 //PLEASE NOTE THAT THE MOVES ARE PRINTED OUT IN REVERSE ORDER, SO THE FIRST MOVE IS PRINTED OUT LAST AND THE LAST MOVE FIRST
  public static void main(String[] args) {
